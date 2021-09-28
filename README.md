@@ -33,7 +33,7 @@
 - [ ] [Your Twilio Number is Here](https://www.twilio.com/console/phone-numbers/incoming)
 - [ ] [Verified Cell Phone Number You Want To Text](https://www.twilio.com/console/phone-numbers/verified)
 
-#### 7. Put your twilio credentials and twilio phone numbers in `credentials.py`
+#### 7. Put your twilio credentials and twilio phone numbers in `send_sms.py`
 
 #### 8. Clone this repository on your desktop.
 
@@ -41,13 +41,6 @@
 
 #### 10. Open `send_sms.py` in **IDLE** and Run it!
 
-#### Or if you want to be cool on your mac...
-
-On Your Mac hit <kbd>CMD</kbd>+<kbd>SPACE</kbd> and type **Terminal**.
-Then type in the following command:
-```
-python Desktop/CP-Twilio-Python-Text-App/send_sms.py
-```
 
 ### Congratulations!
 - [X] You just sent your first text through your Python Text App that uses the Twilio API.
