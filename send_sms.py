@@ -2,15 +2,15 @@
 from twilio.rest import Client
 
 # Your Account Cradantial
-account_sid = "AC557bdec33975e23572007eab51c75dd8"
-auth_token = "824725b027a7e6923585ab57ebf7b070"
+account_sid = "Add Here your account Id"
+auth_token = "Add Here Your Auth Token"
 
 
 # Get Mobile Number
-mobile_number = "+918767286769"
+mobile_number = "+Add your monile number"
 
 # Frome Mobile Number
-my_twilio = "+18284577870"
+my_twilio = "+Add here twilio mobile number"
 
 # Find these values at https://twilio.com/user/account
 client = Client(account_sid, auth_token)
