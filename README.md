@@ -13,7 +13,7 @@
 
 ### Mobile Send Meassage Output
 
-<img src="https://user-images.githubusercontent.com/56730283/102977982-c8d04480-4529-11eb-83ba-432b43a77fd6.png">
+<img src="https://github.com/pruthvi7384/Twilio-Python-Text-App/blob/master/output.jpeg">
 
 -------
 
